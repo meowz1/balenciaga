@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/XsNRLW7r6ncpEZ7p0zc0netivj43ihhy8eWV2cTNQw8S2n+krXQMXhT0DnKCi+8MmQ/K4r7yxRie0pnRfbasg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Overkliker\\Desktop\\Magazine-master\\Magazine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Overkliker\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\Overkliker\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

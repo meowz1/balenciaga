@@ -1,0 +1,46 @@
+[
+	{
+		"atribute": -1,
+		"password": "lkjdsa",
+		"id": 1,
+		"name": "Bred",
+		"surname": "Bugurt",
+		"patronymic": "Hz",
+		"start": {
+			"date": 21,
+			"year": 1988,
+			"month": 12
+		},
+		"passport": {
+			"serial": 4115,
+			"number": 871243
+
+		},
+		"post": "jjj@gmail.com",
+		"salary": 45000,
+		"privID": 1
+
+	},
+	{
+		"atribute": 5,
+		"password": "gg123",
+		"id": 1,
+		"name": "Kebe",
+		"surname": "Ebel",
+		"patronymic": "Hz",
+		"start": {
+			"date": 21,
+			"year": 1988,
+			"month": 12
+		},
+		"passport": {
+			"serial": 4115,
+			"number": 871243
+
+		},
+		"post": "gg@gmail.com",
+		"salary": 45000,
+		"privID": 1
+
+	}
+]
